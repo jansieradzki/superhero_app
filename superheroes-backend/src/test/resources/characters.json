@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "name": "Batman",
+      "score": 8.3,
+      "type": "hero",
+      "weakness": "Joker"
+    },
+    {
+      "name": "Superman",
+      "score": 9.6,
+      "type": "hero",
+      "weakness": "Lex Luthor"
+    },
+    {
+      "name": "Joker",
+      "score": 8.2,
+      "type": "villain"
+    }
+  ]
+}

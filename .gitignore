@@ -21,8 +21,6 @@ dist/
 **/.vite-cache/
 
 # Tailwind CSS
-tailwind.config.js
-**/tailwind.config.js
 tailwind.config.cjs
 **/tailwind.config.cjs
 postcss.config.js

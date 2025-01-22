@@ -23,8 +23,6 @@ dist/
 # Tailwind CSS
 tailwind.config.cjs
 **/tailwind.config.cjs
-postcss.config.js
-**/postcss.config.js
 
 # TypeScript
 *.tsbuildinfo
